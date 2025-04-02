@@ -33,12 +33,6 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** 🚀 who
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ### 📌 Featured Projects
 - 🔹 **[Web Tinder - A Tinder Clone](https://github.com/your-github-username/web-tinder)** - A platform to find the best web developers.
 - 🔹 **[Shop Now    - Online Store](https://github.com/your-github-username/web-tinder)** - A platform to find any product.
