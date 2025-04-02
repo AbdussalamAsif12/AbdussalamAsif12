@@ -6,10 +6,9 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** 🚀 who
 
 ### 🌟 About Me
 - 🔭 Currently working on **Web Tinder - A Tinder Clone for Finding the Best Web Developers**
-- 🌱 Learning **Advanced DSA & Backend Architectures**
+- 🌱 Learning **Continuous New Backend Technologies**
 - 💡 Passionate about **APIs, Web Development, and Performance Optimization**
 - 🎯 Open to **collaborations & freelancing opportunities**
-- 📚 Books I've read: *Rich Dad Poor Dad*
 - 📽 Favorite movies/shows: *The Social Network, Super Pumped, The Playlist*
 
 ---
